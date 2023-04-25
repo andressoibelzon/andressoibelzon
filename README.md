@@ -1,6 +1,6 @@
-### Hi there 
+### Hi there 👋
 
-Hi there 👋 I'm a junior developer graduated from 4Geeks Academy in Spain. I'm passionate about programming and I love to learn new technologies and frameworks.
+I'm a junior developer graduated from 4Geeks Academy in Spain. I'm passionate about programming and I love to learn new technologies and frameworks.
 
 My skills include HTML5, CSS3, and Bootstrap for building responsive and modern user interfaces. I'm also proficient in Javascript ECMAScript 2020 and Node.js for creating dynamic web applications, as well as using Git and Github for version control and collaboration.
 
