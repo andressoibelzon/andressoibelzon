@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 
+
+Hi there 👋 I'm a junior developer graduated from 4Geeks Academy in Spain. I'm passionate about programming and I love to learn new technologies and frameworks.
+
+My skills include HTML5, CSS3, and Bootstrap for building responsive and modern user interfaces. I'm also proficient in Javascript ECMAScript 2020 and Node.js for creating dynamic web applications, as well as using Git and Github for version control and collaboration.
+
+I have experience working with Python and Flask for building web applications and API's, and I'm familiar with React.js, Next.js and Flux for building scalable and reusable components. I have worked with SCRUM methodology for managing projects and delivering quality results.
+
+I'm also familiar with SQL and have worked with SQLAlchemy, MySQL, and Postgres API's to manage and query data effectively. I'm confident in my ability to learn new technologies quickly and efficiently, and I'm excited to continue growing my skillset and contributing to impactful projects.
+
+Feel free to reach out to me with any questions or opportunities.
 
 <!--
 **andressoibelzon/andressoibelzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
